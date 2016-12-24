@@ -1,0 +1,12 @@
+E:\Programming\HomeTasks\HomeTask11\HomeTask11\bin\Debug\HomeTask11.exe.config
+E:\Programming\HomeTasks\HomeTask11\HomeTask11\bin\Debug\HomeTask11.exe
+E:\Programming\HomeTasks\HomeTask11\HomeTask11\bin\Debug\HomeTask11.pdb
+E:\Programming\HomeTasks\HomeTask11\HomeTask11\obj\Debug\HomeTask11.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask11\HomeTask11\obj\Debug\HomeTask11.exe
+E:\Programming\HomeTasks\HomeTask11\HomeTask11\obj\Debug\HomeTask11.pdb
+E:\Programming\C# NICE\2nd try\HomeTask11\HomeTask11\bin\Debug\HomeTask11.exe.config
+E:\Programming\C# NICE\2nd try\HomeTask11\HomeTask11\obj\Debug\HomeTask11.exe
+E:\Programming\C# NICE\2nd try\HomeTask11\HomeTask11\obj\Debug\HomeTask11.pdb
+E:\Programming\C# NICE\2nd try\HomeTask11\HomeTask11\bin\Debug\HomeTask11.exe
+E:\Programming\C# NICE\2nd try\HomeTask11\HomeTask11\bin\Debug\HomeTask11.pdb
+E:\Programming\C# NICE\2nd try\HomeTask11\HomeTask11\obj\Debug\HomeTask11.csprojResolveAssemblyReference.cache
